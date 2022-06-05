@@ -7,27 +7,30 @@
 
 # init directory
 npm i -y
-sleep 30s
+sleep 5s
 
 # express
 npm i --save express
-sleep 50s
+sleep 5s
+
+# babel
+npm install --save-dev @babel/cli @babel/core @babel/preset-env
 
 # eslint
 npm i --save-dev eslint
-sleep 50s
+sleep 5s
 
 # nodemon
 npm i --save nodemon
-sleep 50s
+sleep 5ss
 
 # winston
 npm i --save winston
-sleep 50s
+sleep 5s
 
 # morgan
 npm i --save morgan
-sleep 50s
+sleep 5s
 
 # mocha
 npm i --save mocha
@@ -39,15 +42,15 @@ sleep 50s
 
 # sinon
 npm i --save sinon
-sleep 50s
+sleep 5s
 
 # init express-generator
 npx express-generator
-sleep 1m
+sleep 53
 
 # init eslint
 npx eslint --init
-sleep 50s
+sleep 5s
 
 # start the app
 npm start
