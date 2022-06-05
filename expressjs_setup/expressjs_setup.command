@@ -1,6 +1,9 @@
 #! /bin/bash
 
 # This is a script to install necessary dependancies 
+# to run the .command file
+# 1) go to the folder, run chmod u+x ~/Desktop/xxx.command to get permission
+# 2) then double click the .command file to run
 
 # **** to add the project directory where the dependancy should be installed
 # add cd ...
