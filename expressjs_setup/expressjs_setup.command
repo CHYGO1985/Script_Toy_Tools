@@ -24,7 +24,7 @@ npm i --save-dev eslint
 sleep 5s
 
 # nodemon
-npm i --save nodemon
+npm i --save-dev nodemon
 sleep 5ss
 
 # winston
