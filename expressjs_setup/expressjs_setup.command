@@ -51,6 +51,11 @@ sleep 5s
 npx express-generator
 sleep 53
 
+# create .gitignore file
+touch .gitignore
+echo "/node_modules" >> .gitignore
+echo "package-lock.json" >> .gitignore
+
 # init eslint
 npx eslint --init
 sleep 5s
