@@ -47,6 +47,10 @@ sleep 50s
 npm i --save sinon
 sleep 5s
 
+# lodash
+npm i --save lodash
+sleep 5s
+
 # init express-generator
 npx express-generator
 sleep 53
