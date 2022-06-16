@@ -9,25 +9,25 @@
 
 # open Chrome with needed urls
 open -a "Google Chrome" https://mail.google.com https://www.youtube.com/ https://www.facebook.com/ https://www.instagram.com/
-sleep 10s
+sleep 15s
 
 # open OneNote on NodeJS tab
 open 'onenote:https://d.docs.live.net/e1891d8c3bf09be5/Documents/Web%20Development/NodeJS.one' 
-sleep 5s
+sleep 10s
 
 # Open OneNote on MySQL tab
 open 'onenote:https://d.docs.live.net/e1891d8c3bf09be5/Documents/Web%20Development/MySQL.one'
-sleep 5s
+sleep 10s
 
 # Open Visual Studio Code
 open -a "Visual Studio Code"  
-sleep 5s
+sleep 10s
  
 # Open Microsoft Stickies
 open -a "Stickies"
-sleep 5s
+sleep 10s
 
 # Open Github Desktop
 open -a "Github Desktop"
-sleep 5s
+sleep 10s
 
