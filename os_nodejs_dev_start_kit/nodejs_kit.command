@@ -17,7 +17,7 @@ sleep 10s
 
 # Open OneNote on MySQL tab
 open 'onenote:https://d.docs.live.net/e1891d8c3bf09be5/Documents/Web%20Development/MySQL.one'
-sleep 10s
+sleep 15s
 
 # Open Visual Studio Code
 open -a "Visual Studio Code"  
