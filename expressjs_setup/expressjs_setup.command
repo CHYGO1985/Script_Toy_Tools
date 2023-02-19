@@ -5,8 +5,8 @@
 # 1) go to the folder, run chmod u+x ~/Desktop/xxx.command to get permission
 # 2) then double click the .command file to run
 
-# **** to add the project directory where the dependancy should be installed
-# add cd ...
+# **** to add the project directory where the dependancy should be installed, put 
+# the file under the directory that would like to be installed
 
 # init directory
 npm i -y
@@ -45,6 +45,10 @@ sleep 50s
 
 # sinon
 npm i --save sinon
+sleep 5s
+
+#dotenv
+npm i --save dotenv
 sleep 5s
 
 # lodash
