@@ -13,7 +13,7 @@ npm i -y
 sleep 5s
 
 # express
-npm i --save express
+npm i --save express ejs
 sleep 5s
 
 # babel
