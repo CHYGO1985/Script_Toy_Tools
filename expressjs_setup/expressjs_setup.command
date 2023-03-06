@@ -25,7 +25,7 @@ sleep 5s
 
 # nodemon
 npm i --save-dev nodemon
-sleep 5ss
+sleep 5s
 
 # winston
 npm i --save winston
